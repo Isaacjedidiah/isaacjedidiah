@@ -1,12 +1,13 @@
 ### Hi there, I'm Isaac 👋
+
 ✨ **Machine Learning Engineer** | **Business Intelligence Experts** | **Visual Thinker** | **Data-to-Decision Conductor** ✨
 
-- 💬 Ask me about how to build machine learning models for predictive and forecasting works
+### Introduction 😄
 - 📊 Passionate about using machine learning models to power the growth of businesses and creating a better environment for humanity.
 - 🌱 I'm currently working on AI Agents, GPT models and BERTS.
 - 🚛 I have delivered end-to-end forecasting and predictive machine learning models
 - 🔭 Exploring the frontier of LangChain, RAG, and causal inference
-- 💬 Ask me about machine learning models for prediction and forecasting
+- 💬 Ask me about how to build machine learning models for predictive and forecasting works
 
 ### Tech Arsenal ⚡
 - **Languages**: Python, SQL, Markdown
