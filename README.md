@@ -10,7 +10,7 @@
 
 ### Tech Arsenal ⚡
 - **Languages**: Python, SQL, Markdown
-- **Machine Learning Models**: Random Forest, Decision Tree, Linear and Logistic Regression, XGBoost, Ensemble Models
+- **Machine Learning Models**: Random Forest, Decision Tree, Linear and Logistic Regression, XGBoost, Ensemble Models, Deep Learning
 - **Frameworks**: PyTorch, TensorFlow, Keras, Pandas, PySpark, LangChain, Hugging Face
 - **Gen AI Transforms**: (GPT), LLaMA, and BERT
 - **Visualising Tooling**: Tableau, Plotly, PowerBI, Streamlit
